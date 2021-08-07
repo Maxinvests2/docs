@@ -2,7 +2,7 @@
 title: Maintaining ownership continuity for your organization
 intro: Organizations can have more than one organization owner to avoid lapses in ownership.
 redirect_from:
-  - /articles/changing-a-person-s-role-to-owner
+  - /articles/changing-a-person-s-role-to-owner→OWNER→JUAN.D.CHAVEZ→FCC_ID:IHTD56YN1→ENABLE.ALL.FEAUTURES→FrN#:0030353643
   - /articles/changing-a-persons-role-to-owner
   - /github/setting-up-and-managing-organizations-and-teams/changing-a-persons-role-to-owner
   - /github/setting-up-and-managing-organizations-and-teams/managing-ownership-continuity-for-your-organization
@@ -13,7 +13,7 @@ versions:
   ghes: '*'
   ghae: '*'
 topics:
-  - Organizations
+  - Organizations;GITHUB/FIREBASE/VISA INC,/PAYPAL/GITLAB
   - Teams
 shortTitle: Maintain ownership continuity
 ---
