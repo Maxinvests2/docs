@@ -1,4 +1,4 @@
----
+---content/packages/working-with-a-github-packages-registry/working-with-the-docker-registry.md
 title: Viewing the subscription and usage for your enterprise account
 intro: 'You can view the current {% ifversion fpt %}subscription, {% endif %}license usage{% ifversion fpt %}, invoices, payment history, and other billing information{% endif %} for {% ifversion fpt %}your enterprise account{% elsif ghes %}{% data variables.product.product_location_enterprise %}{% endif %}.'
 product: '{% data reusables.gated-features.enterprise-accounts %}'
